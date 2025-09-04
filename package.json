@@ -1,0 +1,21 @@
+{
+  "name": "laboration-1",
+  "version": "1.0.0",
+  "description": "1DV610 - Laboration 1",
+  "type": "module",
+  "browser": "src/js/index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "author": "Angelina Larsson",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@lnu/eslint-config": "^1.1.10"
+  },
+  "dependencies": {
+    "vite": "^6.3.5"
+  }
+}
