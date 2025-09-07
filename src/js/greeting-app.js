@@ -1,7 +1,7 @@
 /**
  * The greeting-app web component.
  * 
- * @file components/greeting-app
+ * @file js/greeting-app
  * @module Generates a random greeting for the user.
  */
 
